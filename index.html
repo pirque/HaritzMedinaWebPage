@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Haritz Medina personal Web Page</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/Controller.js"></script>
+    <script src="js/Model.js"></script>
+    <script src="js/View.js"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="media/icons/h.png" type="image/x-icon" />
+</head>
+<body role="document">
+
+<div id="header">
+    Haritz Medina
+</div>
+
+<div id="body">
+
+    <!-- Navigation bar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-target="#navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#home">HaritzMedina</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="#career">Professional career</a></li>
+                    <li><a href="#projects">Freetime projects</a></li>
+                    <li><a href="blog/">Blog</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#languages">Language</a></li>
+                    <li><a href="#about">About me</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Container -->
+    <div class="container">
+        <div class="jumbotron">
+            This is Haritz Medina personal Web Page. Here you can find some works or projects done by me. So, welcome to my own web page, enjoy it.
+        </div>
+    </div>
+
+
+
+</div>
+
+<!-- Bootstrap inclusion -->
+<script src="js/lib/bootstrap.min.js"></script>
+<script type="text/javascript">
+    // Initialise the controller
+    (new Controller()).initialize();
+</script>
+
+</body>
+</html>
