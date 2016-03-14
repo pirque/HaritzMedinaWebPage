@@ -20,7 +20,7 @@ Controller.prototype.initialize = function(){
         model.setPage(model.content.pages[event.toElement.id]);
     });
 
-    // Load the home view
+    // TODO Load the view of the url
     this.model.setPage(this.model.content.pages.home);
 
 };

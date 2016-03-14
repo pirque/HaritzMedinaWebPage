@@ -7,12 +7,26 @@ body {
 }
 
 #main-container{
-    padding-top: 50px;
-    padding-bottom: 20px;
+    padding-top: 2em;
+    padding-bottom: 1em;
 }
 
 .jumbotron{
-    background-color: rgba(150,150,150, 0.8);
+    margin-top: 3em;
+    background-color: #333;
     color: white;
 }
 
+p.warning{
+    background-color: rgba(220, 220, 120, 0.6);
+    padding-left: 2em;
+}
+div.alert-warning:before{
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    margin-right: 0.5em;
+    content: "";
+    background: url(../media/icons/warning.png) no-repeat 0 0;
+    background-size: 100%;
+}
