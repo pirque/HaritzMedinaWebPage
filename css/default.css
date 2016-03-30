@@ -30,3 +30,9 @@ div.alert-warning:before{
     background: url(../media/icons/warning.png) no-repeat 0 0;
     background-size: 100%;
 }
+
+div.panel-black {
+    background: rgba(0,0,0,0)
+}
+
+.panel-black

@@ -21,6 +21,11 @@ Controller.prototype.initialize = function(){
     });
 
     // TODO Load the view of the url
-    this.model.setPage(this.model.content.pages.home);
+    var selectedPage = window.location.hash.substr(1);
+    console.log(selectedPage);
+    if($.isEmptyObject(selectedPage)){
+        selectedPage = "home";
+    }
+    this.model.setPage(this.model.content.pages[selectedPage]);
 
 };
