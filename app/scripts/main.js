@@ -1,1 +1,1 @@
-console.log('\'Allo \'Allo!');
+(new Controller()).initialize();

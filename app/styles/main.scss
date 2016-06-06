@@ -56,7 +56,6 @@ body {
 
 /* Main marketing message and sign up button */
 .jumbotron {
-  text-align: center;
   border-bottom: 1px solid #e5e5e5;
   .btn {
     font-size: 21px;
@@ -75,7 +74,7 @@ body {
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
   .container {
-    max-width: 730px;
+    max-width: 100%;
   }
 
   /* Remove the padding we set earlier */
@@ -95,4 +94,34 @@ body {
   .jumbotron {
     border-bottom: 0;
   }
+}
+
+
+#main-container{
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+.jumbotron{
+  margin-top: 3em;
+  background-color: #333;
+  color: white;
+}
+
+p.warning{
+  background-color: rgba(220, 220, 120, 0.6);
+  padding-left: 2em;
+}
+div.alert-warning:before{
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.5em;
+  content: "";
+  background: url(../icons/warning.png) no-repeat 0 0;
+  background-size: 100%;
+}
+
+div.panel-black {
+  background: rgba(0,0,0,0)
 }
