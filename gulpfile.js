@@ -87,9 +87,12 @@ gulp.task('fonts', () => {
 
 gulp.task('extras', () => {
   return gulp.src([
-    'app/*.*',
-    '!app/*.html'
+    'app/icons',
+    'app/icons/**/*',
+    'app/templates',
+    'app/templates/**/*'
   ], {
+    base: 'app',
     dot: true
   }).pipe(gulp.dest('dist'));
 });

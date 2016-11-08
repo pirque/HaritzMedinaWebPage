@@ -10,11 +10,12 @@ var Model = function(){
 Model.content = function() {
     this.folder = 'templates/';
     this.pages = {
-        home: this.folder + 'home.html',
-        career: this.folder + 'career.html',
-        projects: this.folder + 'projects.html',
-        about: this.folder + 'about.html'
-    }
+      home: this.folder + 'home.html',
+      career: this.folder + 'career.html',
+      projects: this.folder + 'projects.html',
+      about: this.folder + 'about.html',
+      cookies: this.folder + 'cookies.html'
+    };
 };
 
 Model.prototype.setPage = function(page){

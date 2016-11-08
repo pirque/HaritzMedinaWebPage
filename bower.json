@@ -3,7 +3,8 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^3.3.6",
-    "bootstrap-sass": "~3.3.5",
+    "bootstrap-sass": "^3.3.6",
+    "bootstrap-social": "^5.0.0",
     "modernizr": "~2.8.1",
     "jquery": "^2.2.4"
   },
