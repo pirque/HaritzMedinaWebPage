@@ -26,7 +26,7 @@
     <!-- endbuild -->
 
     <!-- build:js scripts/vendor/modernizr.js -->
-    <script src="/bower_components/modernizr/modernizr.js"></script>
+    <!--<script src="/bower_components/modernizr/modernizr.js"></script>-->
     <!-- endbuild -->
   </head>
   <body>
@@ -106,17 +106,26 @@
     <!-- endbuild -->
 
     <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
-    <script type="text/javascript">
-      window.cookieconsent_options = {
-        "message":"This website uses cookies to ensure you get the best experience on our website.",
-        "dismiss":"Got it!",
-        "learnMore":"More info",
-        "link":"#cookies",
-        "theme":"light-bottom"
-      };
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.2/cookieconsent.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.2/cookieconsent.min.js"></script>
+    <script>
+      window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+          "palette": {
+            "popup": {
+              "background": "#101010"
+            },
+            "button": {
+              "background": "transparent",
+              "text": "#999999",
+              "border": "#999999"
+            }
+          },
+          "content": {
+            "href": "#cookies"
+          }
+        })});
     </script>
-
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
     <!-- End Cookie Consent plugin -->
 
 

@@ -121,7 +121,7 @@ body {
 
 .jumbotron{
   margin-top: 3em;
-  background-color: rgba(75,75,75,0.8);
+  background-color: rgba(75,75,75,0.9);
   color: white;
 }
 
@@ -140,5 +140,21 @@ div.alert-warning:before{
 }
 
 div.panel-black {
-  background: rgba(0,0,0,0)
+  background: rgba(0,0,0,0);
+}
+
+.jumbotron a{
+  color: white;
+  text-decoration: underline;
+}
+
+.jumbotron a:hover{
+  color: rgba(200,200,200,1);
+  text-underline: gray;
+}
+
+#emailImg{
+  margin-left: 7px;
+  width: 35px !important;
+  height: 100%;
 }
