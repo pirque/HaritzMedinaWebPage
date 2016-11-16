@@ -13,6 +13,7 @@ Model.content = function() {
       home: this.folder + 'home.html',
       career: this.folder + 'career.html',
       projects: this.folder + 'projects.html',
+      media: this.folder + 'media.html',
       about: this.folder + 'about.html',
       cookies: this.folder + 'cookies.html'
     };
