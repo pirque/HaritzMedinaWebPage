@@ -5,6 +5,7 @@
 
 var View = function(){
   this.randomizeBackground();
+  this.currentDir = window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/'));
 };
 
 View.prototype.container = 'main-container';
@@ -16,6 +17,5 @@ View.prototype.showContent = function (htmlContent, htmlContainer) {
 
 View.prototype.randomizeBackground = function(){
   var randomBackground = this.backgrounds[Math.floor(Math.random()*this.backgrounds.length)];
-
-  document.body.style.background = 'url(/images/'+randomBackground+') no-repeat center center fixed';
+  document.body.style.background = 'url('+this.currentDir+'/images/'+randomBackground+') no-repeat center center fixed';
 };

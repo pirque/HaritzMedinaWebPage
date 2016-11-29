@@ -87,6 +87,8 @@ gulp.task('fonts', () => {
 
 gulp.task('extras', () => {
   return gulp.src([
+    'app/favicon.png',
+    'app/robots.txt',
     'app/icons',
     'app/icons/**/*',
     'app/templates',
