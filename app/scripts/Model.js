@@ -55,18 +55,18 @@ Model.prototype.retrievePage = function(page){
 Model.prototype.cookies = {};
 
 Model.prototype.cookies.createCookie = function(name,value,days) {
-  let expires = "";
+  let expires = '';
   if (days) {
     let date = new Date();
     date.setTime(date.getTime()+(days*24*60*60*1000));
-    expires = "; expires="+date.toGMTString();
+    expires = '; expires='+date.toGMTString();
   }
 
-  document.cookie = name+"="+value+expires+"; path=/";
+  document.cookie = name+'='+value+expires+'; path=/';
 };
 
 Model.prototype.cookies.readCookie = function(name){
-  let nameEQ = name + "=";
+  let nameEQ = name + '=';
   let ca = document.cookie.split(';');
   for(let i=0;i < ca.length;i++){
     let c = ca[i];
@@ -79,5 +79,5 @@ Model.prototype.cookies.readCookie = function(name){
 };
 
 Model.prototype.cookies.eraseCookie = function(name){
-  this.createCookie(name,"",-1);
+  this.createCookie(name,'',-1);
 };
