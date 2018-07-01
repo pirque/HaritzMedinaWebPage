@@ -161,3 +161,11 @@ div.panel-black {
 .langItem{
   cursor: pointer;
 }
+
+.panel-heading a {
+  color: rgba(0,0,0,1);
+}
+
+.panel-heading a:hover {
+  color: rgba(50,50,50,1);
+}
