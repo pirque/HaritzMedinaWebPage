@@ -1,7 +1,19 @@
-var HaritzMedina = {};
+/**
+ * Created by Haritz Medina on 09/28/2014. Last update 07/17/2019.
+ */
 
-HaritzMedina.controller = new Controller();
-HaritzMedina.model = new Model();
-HaritzMedina.view = new View();
+// Uncomment to enable Bootstrap tooltips
+// https://getbootstrap.com/docs/4.0/components/tooltips/#example-enable-tooltips-everywhere
+// $(function () { $('[data-toggle="tooltip"]').tooltip(); });
 
-HaritzMedina.controller.initialize();
+// Uncomment to enable Bootstrap popovers
+// https://getbootstrap.com/docs/4.0/components/popovers/#example-enable-popovers-everywhere
+// $(function () { $('[data-toggle="popover"]').popover(); });
+
+const Controller = require('./lib/Controller')
+
+window.haritzmedina = {}
+
+window.haritzmedina.controller = new Controller()
+
+window.haritzmedina.controller.initialize()

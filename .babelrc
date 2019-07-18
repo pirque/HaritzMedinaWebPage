@@ -1,5 +1,13 @@
 {
   "presets": [
-    "es2015"
-  ]
+    ["@babel/preset-env", {
+      "targets": {
+        "browsers": "last 2 versions"
+      },
+      "debug": false
+    }]
+  ],
+  "plugins": ["transform-es3-property-literals", "transform-es2015-modules-strip"],
+  "ignore": ["node_modules"],
+  "retainLines": true
 }

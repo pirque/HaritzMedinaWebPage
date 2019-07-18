@@ -1,10 +1,4 @@
-$icon-font-path: '../fonts/';
-
-// bower:scss
-@import "../../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
-@import "../../bower_components/font-awesome/scss/font-awesome.scss";
-@import "../../bower_components/bootstrap-social/bootstrap-social.scss";
-// endbower
+@import './socialButtons';
 
 html{
   position: relative;
@@ -135,12 +129,8 @@ div.alert-warning:before{
   height: 1em;
   margin-right: 0.5em;
   content: "";
-  background: url(../icons/warning.png) no-repeat 0 0;
+  background: url(../images/icons/warning.png) no-repeat 0 0;
   background-size: 100%;
-}
-
-div.panel-black {
-  background: rgba(0,0,0,0);
 }
 
 .jumbotron a{
@@ -153,19 +143,24 @@ div.panel-black {
   text-underline: gray;
 }
 
-.socialButtonCustomImg:first-child{
-  margin-left: 7px;
-  width: 32px !important;
-}
-
 .langItem{
   cursor: pointer;
 }
 
-.panel-heading a {
-  color: rgba(0,0,0,1);
+.card {
+  margin-bottom: 10px;
 }
 
-.panel-heading a:hover {
-  color: rgba(50,50,50,1);
+.card:hover {
+  .card-header {
+    background-color: rgba(0,0,0,.25);
+  }
+  .card-body {
+    background-color: rgba(0,0,0,.15);
+  }
+}
+
+.websiteSourceCodeButton {
+  width: 30px;
+  height: 20px;
 }
