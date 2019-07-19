@@ -2,8 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4edaabe3-8f8f-4496-b9f2-0cbd305122a9" name="Default" comment="Website updated to bootstrap 4. Removed most part of the dependencies jquery, lodash,... by vanilla javascript ES6 and transpiled . Updated all the libraries used to their latest versions. Updated content in the website. Other minor changes and improvements.">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/en_GB/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/en_GB/aboutme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/en_GB/contributions.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/en_GB/contributions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/en_GB/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/en_GB/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/en_GB/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/en_GB/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/es_ES/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/es_ES/aboutme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/es_ES/contributions.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/es_ES/contributions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/es_ES/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/es_ES/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/es_ES/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/es_ES/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/big/bg0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/big/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/big/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/big/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/big/bg4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/chromeStore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/npm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/orcid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/powerpoint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/skype.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/slack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/telegram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/small/bg0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/small/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/small/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/small/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/small/bg4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scripts/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scripts/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scripts/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/styles/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/styles/vendor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/aboutme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/contributions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/cookies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/aboutme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/contributions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/cookies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/projects.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,10 +77,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="420">
+              <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/lib/Controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/lib/View.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="71" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/es_ES/projects.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/en_GB/aboutme.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/en_GB/contributions.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/en_GB/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/es_ES/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/en_GB/projects.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-255">
+              <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/es_ES/cookies.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -101,21 +236,11 @@
         <option value="$PROJECT_DIR$/app/templates/en_GB/media.html" />
         <option value="$PROJECT_DIR$/app/styles/_socialButtons.scss" />
         <option value="$PROJECT_DIR$/app/styles/main.scss" />
-        <option value="$PROJECT_DIR$/app/templates/es_ES/home.html" />
-        <option value="$PROJECT_DIR$/app/templates/es_ES/aboutme.html" />
-        <option value="$PROJECT_DIR$/app/templates/en_GB/home.html" />
-        <option value="$PROJECT_DIR$/app/templates/es_ES/projects.html" />
-        <option value="$PROJECT_DIR$/app/templates/en_GB/contributions.html" />
-        <option value="$PROJECT_DIR$/app/templates/es_ES/contributions.html" />
-        <option value="$PROJECT_DIR$/app/templates/en_GB/aboutme.html" />
-        <option value="$PROJECT_DIR$/app/templates/en_GB/projects.html" />
         <option value="$PROJECT_DIR$/app/templates/en_GB/cookies.html" />
         <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/app/templates/es_ES/cookies.html" />
         <option value="$PROJECT_DIR$/app/scripts/main.js" />
-        <option value="$PROJECT_DIR$/app/scripts/lib/View.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/scripts/lib/Model.js" />
         <option value="$PROJECT_DIR$/app/scripts/lib/Controller.js" />
         <option value="$PROJECT_DIR$/test/spec/test.js" />
@@ -123,6 +248,16 @@
         <option value="$PROJECT_DIR$/.eslintrc" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/templates/es_ES/contributions.html" />
+        <option value="$PROJECT_DIR$/app/templates/es_ES/projects.html" />
+        <option value="$PROJECT_DIR$/app/templates/es_ES/aboutme.html" />
+        <option value="$PROJECT_DIR$/app/templates/en_GB/aboutme.html" />
+        <option value="$PROJECT_DIR$/app/templates/en_GB/contributions.html" />
+        <option value="$PROJECT_DIR$/app/templates/en_GB/home.html" />
+        <option value="$PROJECT_DIR$/app/templates/es_ES/home.html" />
+        <option value="$PROJECT_DIR$/app/templates/en_GB/projects.html" />
+        <option value="$PROJECT_DIR$/app/scripts/lib/View.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
@@ -166,13 +301,40 @@
             <path>
               <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
               <item name="haritzmedina.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="haritzmedina.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="haritzmedina.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="haritzmedina.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="en_GB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="haritzmedina.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="es_ES" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
               <item name="haritzmedina.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
@@ -203,10 +365,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v12.6.0/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -347,10 +512,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Mocha.Give it some context" />
-        <item itemvalue="Mocha.test/spec/test.js" />
         <item itemvalue="Gulp.js.build" />
         <item itemvalue="Gulp.js.serve" />
+        <item itemvalue="Mocha.Give it some context" />
+        <item itemvalue="Mocha.test/spec/test.js" />
         <item itemvalue="Gulp.js.scripts" />
       </list>
     </recent_temporary>
@@ -380,7 +545,8 @@
       <workItem from="1561731815539" duration="633000" />
       <workItem from="1562946588530" duration="189000" />
       <workItem from="1562946997846" duration="5651000" />
-      <workItem from="1563198305899" duration="31179000" />
+      <workItem from="1563198305899" duration="31469000" />
+      <workItem from="1563445016380" duration="2010000" />
     </task>
     <task id="LOCAL-00001" summary="Updated some projects, added DBusBot, curriculum and fixed some bugs.">
       <created>1505732441264</created>
@@ -460,7 +626,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68212000" />
+    <option name="totallyTimeSpent" value="70512000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -475,7 +641,7 @@
     <frame x="0" y="23" width="1280" height="1343" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5276873" visible="true" weight="0.29886913" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5276873" visible="true" weight="0.30371568" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -485,13 +651,13 @@
       <window_info id="npm" order="7" sideWeight="0.4723127" side_tool="true" weight="0.27786753" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5638126" weight="0.3281759" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5638126" visible="true" weight="0.3281759" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32980457" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49676898" weight="0.3284553" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.52584815" visible="true" weight="0.5203583" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.52584815" weight="0.5203583" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.4361874" side_tool="true" weight="0.3281759" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="11" />
@@ -578,15 +744,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.tmp/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/args.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -604,25 +761,8 @@
     <entry file="file://$PROJECT_DIR$/modernizr.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.tmp/scripts/ac55584403f108637467.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="106" column="197" selection-start-line="106" selection-start-column="197" selection-end-line="106" selection-end-column="197" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.tmp/scripts/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.tmp/scripts/ac55584403f108637467.js" />
+    <entry file="file://$PROJECT_DIR$/.tmp/scripts/test.js" />
     <entry file="file://$PROJECT_DIR$/.tmp/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -630,105 +770,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/lib/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/app/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="69" column="80" selection-start-line="69" selection-start-column="80" selection-end-line="69" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap-social/bootstrap-social.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap-social/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/app/styles/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/icons/chromeStore.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/lib/test.js" />
+    <entry file="file://$PROJECT_DIR$/old/app/scripts/main.js" />
+    <entry file="file://$PROJECT_DIR$/old/app/index.html" />
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap-social/bootstrap-social.scss" />
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap-social/package.json" />
+    <entry file="file://$PROJECT_DIR$/old/app/styles/main.scss" />
+    <entry file="file://$PROJECT_DIR$/app/icons/chromeStore.svg" />
     <entry file="file://$PROJECT_DIR$/app/images/icons/chromeStore.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/old/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/old/package.json" />
     <entry file="file://$PROJECT_DIR$/app/images/icons/orcid.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/apple-touch-icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/en_GB/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/es_ES/aboutme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/apple-touch-icon.png" />
+    <entry file="file://$PROJECT_DIR$/app/templates/en_GB/about.html" />
     <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="140" column="10" selection-start-line="140" selection-start-column="10" selection-end-line="140" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/es_ES/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/es_ES/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -739,45 +800,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/en_GB/aboutme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/es_ES/contributions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/en_GB/contributions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/en_GB/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/en_GB/cookies.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/es_ES/cookies.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -788,24 +814,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/en_GB/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/lib/View.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
@@ -823,13 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="563">
           <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -854,24 +859,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/lib/Controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/lib/Model.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
           <caret line="72" column="30" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="71" column="68" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -892,10 +883,115 @@
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/es_ES/contributions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/es_ES/aboutme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/es_ES/cookies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/es_ES/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/en_GB/aboutme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/en_GB/contributions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/en_GB/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/es_ES/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/en_GB/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/lib/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/lib/View.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="71" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
         </state>
       </provider>
     </entry>
