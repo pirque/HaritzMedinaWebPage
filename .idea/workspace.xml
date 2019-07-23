@@ -1,63 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4edaabe3-8f8f-4496-b9f2-0cbd305122a9" name="Default" comment="Website updated to bootstrap 4. Removed most part of the dependencies jquery, lodash,... by vanilla javascript ES6 and transpiled . Updated all the libraries used to their latest versions. Updated content in the website. Other minor changes and improvements.">
+    <list default="true" id="4edaabe3-8f8f-4496-b9f2-0cbd305122a9" name="Default" comment="Fixed some minor bugs with navbar and pages titles.">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/big/bg0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/big/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/big/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/big/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/big/bg4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/chromeStore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/npm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/orcid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/powerpoint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/skype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/slack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/telegram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/icons/web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/medium/bg0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/medium/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/medium/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/medium/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/medium/bg4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/small/bg0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/small/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/small/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/small/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/small/bg4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/scripts/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/scripts/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/scripts/vendor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/styles/vendor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/aboutme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/contributions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/cookies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/projects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/aboutme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/contributions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/cookies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/en_GB/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/en_GB/aboutme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/en_GB/contributions.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/en_GB/contributions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/en_GB/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/en_GB/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/en_GB/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/en_GB/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/es_ES/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/es_ES/aboutme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/es_ES/contributions.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/es_ES/contributions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/es_ES/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/es_ES/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/es_ES/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/es_ES/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/big/bg0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/big/bg1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/big/bg2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/big/bg3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/big/bg4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/chromeStore.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/email.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/github.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/linkedin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/npm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/orcid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/pdf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/powerpoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/skype.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/slack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/telegram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/twitter.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/warning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/icons/web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/small/bg0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/small/bg1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/small/bg2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/small/bg3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/small/bg4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/scripts/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/scripts/modernizr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/scripts/vendor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/styles/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/styles/vendor.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/aboutme.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/contributions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/cookies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/projects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/aboutme.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/contributions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/cookies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,29 +70,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="390">
+                <caret line="26" column="71" lean-forward="true" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/lib/Controller.js">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/lib/View.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="71" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
+            <state relative-caret-position="209">
+              <caret line="4792" column="24" selection-start-line="4792" selection-start-column="24" selection-end-line="4792" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -151,7 +148,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/en_GB/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-255">
+            <state relative-caret-position="30">
               <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
             </state>
           </provider>
@@ -170,7 +167,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>favic</find>
       <find>favi</find>
       <find>favicon</find>
       <find>GNU</find>
@@ -200,6 +196,7 @@
       <find>chai</find>
       <find>html</find>
       <find>css</find>
+      <find>lodash</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -213,7 +210,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.eslint" />
         <option value="$PROJECT_DIR$/app/scripts/Controller.js" />
         <option value="$PROJECT_DIR$/app/scripts/View.js" />
@@ -240,7 +236,6 @@
         <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/app/templates/es_ES/cookies.html" />
         <option value="$PROJECT_DIR$/app/scripts/main.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/app/scripts/lib/Model.js" />
         <option value="$PROJECT_DIR$/app/scripts/lib/Controller.js" />
         <option value="$PROJECT_DIR$/test/spec/test.js" />
@@ -258,6 +253,8 @@
         <option value="$PROJECT_DIR$/app/templates/en_GB/projects.html" />
         <option value="$PROJECT_DIR$/app/scripts/lib/View.js" />
         <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -281,6 +278,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -302,39 +300,25 @@
               <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
               <item name="haritzmedina.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
               <item name="haritzmedina.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="haritzmedina.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
               <item name="haritzmedina.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="haritzmedina.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="en_GB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="haritzmedina.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="es_ES" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="haritzmedina.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HaritzMedinaWebPage" type="b2602c69:ProjectViewProjectNode" />
@@ -351,7 +335,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
@@ -378,19 +361,19 @@
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/app" />
-      <recent name="$PROJECT_DIR$/app/images" />
-      <recent name="$PROJECT_DIR$/app/scripts/lib" />
-      <recent name="$PROJECT_DIR$/app/scripts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/images" />
       <recent name="$PROJECT_DIR$/app/scripts/lib" />
       <recent name="$PROJECT_DIR$/old" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app/images/small" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/images" />
+      <recent name="$PROJECT_DIR$/app/scripts/lib" />
+      <recent name="$PROJECT_DIR$/app/scripts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -546,7 +529,8 @@
       <workItem from="1562946588530" duration="189000" />
       <workItem from="1562946997846" duration="5651000" />
       <workItem from="1563198305899" duration="31469000" />
-      <workItem from="1563445016380" duration="2010000" />
+      <workItem from="1563445016380" duration="2101000" />
+      <workItem from="1563889332836" duration="1371000" />
     </task>
     <task id="LOCAL-00001" summary="Updated some projects, added DBusBot, curriculum and fixed some bugs.">
       <created>1505732441264</created>
@@ -611,7 +595,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563444117122</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Fixed some minor bugs with navbar and pages titles.">
+      <created>1563531607141</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1563531607142</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -626,7 +617,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70512000" />
+    <option name="totallyTimeSpent" value="71974000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -639,9 +630,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="1343" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5276873" visible="true" weight="0.30371568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5276873" visible="true" weight="0.3085622" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -657,7 +647,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32980457" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49676898" weight="0.3284553" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.52584815" weight="0.5203583" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.52584815" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.4361874" side_tool="true" weight="0.3281759" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="11" />
@@ -672,7 +662,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Gulp" order="9" sideWeight="0.43430656" visible="true" weight="0.19224556" />
+      <window_info anchor="right" id="Gulp" order="9" sideWeight="0.43430656" weight="0.19224556" />
       <window_info anchor="right" id="Maven" order="10" />
     </layout>
   </component>
@@ -731,19 +721,10 @@
     <MESSAGE value="Added yarn.lock" />
     <MESSAGE value="Addded images to dist" />
     <MESSAGE value="Website updated to bootstrap 4. Removed most part of the dependencies jquery, lodash,... by vanilla javascript ES6 and transpiled . Updated all the libraries used to their latest versions. Updated content in the website. Other minor changes and improvements." />
-    <option name="LAST_COMMIT_MESSAGE" value="Website updated to bootstrap 4. Removed most part of the dependencies jquery, lodash,... by vanilla javascript ES6 and transpiled . Updated all the libraries used to their latest versions. Updated content in the website. Other minor changes and improvements." />
+    <MESSAGE value="Fixed some minor bugs with navbar and pages titles." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed some minor bugs with navbar and pages titles." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/scripts/modernizr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="2198" column="107" selection-start-line="2198" selection-start-column="96" selection-end-line="2198" selection-end-column="107" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/args.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -897,20 +878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/es_ES/contributions.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -925,10 +892,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/es_ES/cookies.html">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        <state relative-caret-position="420">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/lib/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/lib/View.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="71" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
         </state>
       </provider>
     </entry>
@@ -969,29 +950,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/en_GB/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
+        <state relative-caret-position="30">
           <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/lib/Controller.js">
+    <entry file="file://$PROJECT_DIR$/app/templates/es_ES/cookies.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+        <state relative-caret-position="300">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/lib/View.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="71" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
+        <state relative-caret-position="135">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        <state relative-caret-position="209">
+          <caret line="4792" column="24" selection-start-line="4792" selection-start-column="24" selection-end-line="4792" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="26" column="71" lean-forward="true" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

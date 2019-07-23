@@ -9,8 +9,8 @@
     "modernizr": "^3.7.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.5.4",
-    "@babel/preset-env": "^7.5.4",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
     "autoprefixer": "^9.6.1",
     "babel-eslint": "^10.0.2",
     "babel-loader": "^8.0.6",
@@ -24,7 +24,7 @@
     "del": "^5.0.0",
     "eslint-config-standard": "^13.0.1",
     "eslint-loader": "^2.2.1",
-    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-mocha": "^6.0.0",
     "eslint-plugin-node": "^9.1.0",
     "eslint-plugin-promise": "^4.2.1",
@@ -35,7 +35,7 @@
     "gulp-eslint": "^6.0.0",
     "gulp-filter": "^6.0.0",
     "gulp-htmlmin": "^5.0.1",
-    "gulp-if": "^2.0.2",
+    "gulp-if": "^3.0.0",
     "gulp-imagemin": "^6.0.0",
     "gulp-load-plugins": "^2.0.0",
     "gulp-plumber": "^1.2.1",
@@ -46,14 +46,14 @@
     "gulp-uglify": "^3.0.2",
     "gulp-useref": "^3.1.6",
     "mkdirp": "^0.5.1",
-    "mocha": "^6.1.4",
+    "mocha": "^6.2.0",
     "node-sass": "^4.12.0",
     "set-value": "^3.0.1",
     "uglify-es-webpack-plugin": "^0.10.0",
     "vinyl-named": "^1.1.0",
-    "webpack": "^4.35.3",
+    "webpack": "^4.37.0",
     "webpack-stream": "^5.2.1",
-    "yargs": "13.2.4"
+    "yargs": "13.3.0"
   },
   "scripts": {
     "serve:test": "cross-env NODE_ENV=test gulp serve",
@@ -64,7 +64,8 @@
     "tasks": "gulp --tasks",
     "clean": "rm -rf node_modules",
     "reinstall": "npm run clean && npm install",
-    "rebuild": "npm run clean && npm install && npm run build"
+    "rebuild": "npm run clean && npm install && npm run build",
+    "postinstall": "npm install node-sass"
   },
   "browserslist": [
     "> 1%",
