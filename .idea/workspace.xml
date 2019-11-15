@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4edaabe3-8f8f-4496-b9f2-0cbd305122a9" name="Default" comment="Remove in spanish version duplicated iAnnotate19. rel=noopener on target _blank links&#10;&#10;Noopener information: https://searchenginelaws.com/seo/what-is-rel-noopener-noreferrer-tag/">
+    <list default="true" id="4edaabe3-8f8f-4496-b9f2-0cbd305122a9" name="Default" comment="Added info">
+      <change afterPath="$PROJECT_DIR$/app/images/icons/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/scripts/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/scripts/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/scripts/vendor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/styles/vendor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/aboutme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/contributions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/cookies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/projects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/aboutme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/contributions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/cookies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scripts/lib/Controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/scripts/lib/Controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/en_GB/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/en_GB/aboutme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/en_GB/contributions.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/en_GB/contributions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/en_GB/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/en_GB/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/en_GB/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/en_GB/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/es_ES/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/es_ES/aboutme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/es_ES/contributions.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/es_ES/contributions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/es_ES/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/es_ES/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/es_ES/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/es_ES/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/templates/en_GB/aboutme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/contributions.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/templates/en_GB/contributions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/templates/en_GB/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/templates/es_ES/aboutme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/contributions.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/templates/es_ES/contributions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/templates/es_ES/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -250,7 +250,7 @@
       <workItem from="1563445016380" duration="2101000" />
       <workItem from="1563889332836" duration="1371000" />
       <workItem from="1570553259339" duration="1360000" />
-      <workItem from="1573830791514" duration="1050000" />
+      <workItem from="1573830791514" duration="1289000" />
     </task>
     <task id="LOCAL-00001" summary="Updated some projects, added DBusBot, curriculum and fixed some bugs.">
       <created>1505732441264</created>
@@ -322,7 +322,21 @@
       <option name="project" value="LOCAL" />
       <updated>1563531607142</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Remove in spanish version duplicated iAnnotate19. rel=noopener on target _blank links&#10;&#10;Noopener information: https://searchenginelaws.com/seo/what-is-rel-noopener-noreferrer-tag/">
+      <created>1573832396963</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1573832396963</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added info">
+      <created>1573832459847</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1573832459847</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -388,6 +402,8 @@
     <MESSAGE value="Addded images to dist" />
     <MESSAGE value="Website updated to bootstrap 4. Removed most part of the dependencies jquery, lodash,... by vanilla javascript ES6 and transpiled . Updated all the libraries used to their latest versions. Updated content in the website. Other minor changes and improvements." />
     <MESSAGE value="Fixed some minor bugs with navbar and pages titles." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed some minor bugs with navbar and pages titles." />
+    <MESSAGE value="Remove in spanish version duplicated iAnnotate19. rel=noopener on target _blank links&#10;&#10;Noopener information: https://searchenginelaws.com/seo/what-is-rel-noopener-noreferrer-tag/" />
+    <MESSAGE value="Added info" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added info" />
   </component>
 </project>
