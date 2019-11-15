@@ -133,6 +133,16 @@ div.alert-warning:before{
   background-size: 100%;
 }
 
+div.alert-info:before{
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.5em;
+  content: "";
+  background: url(../images/icons/info.png) no-repeat 0 0;
+  background-size: 100%;
+}
+
 .jumbotron a{
   color: white;
   text-decoration: underline;
