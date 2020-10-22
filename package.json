@@ -48,7 +48,7 @@
     "gulp-useref": "^3.1.6",
     "mkdirp": "^0.5.1",
     "mocha": "^6.2.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^4.13.1",
     "set-value": "^3.0.1",
     "uglify-es-webpack-plugin": "^0.10.0",
     "vinyl-named": "^1.1.0",
