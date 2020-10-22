@@ -1,38 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4edaabe3-8f8f-4496-b9f2-0cbd305122a9" name="Default" comment="Added info">
-      <change afterPath="$PROJECT_DIR$/app/images/icons/info.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/scripts/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/scripts/modernizr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/scripts/vendor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/styles/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/styles/vendor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/aboutme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/contributions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/cookies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/templates/en_GB/projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/aboutme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/contributions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/cookies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/templates/es_ES/projects.html" afterDir="false" />
+    <list default="true" id="4edaabe3-8f8f-4496-b9f2-0cbd305122a9" name="Default" comment="Updated to">
+      <change afterPath="$PROJECT_DIR$/app/images/icons/youtube.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HaritzMedinaWebPage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HaritzMedinaWebPage.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/_socialButtons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/_socialButtons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/en_GB/contributions.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/en_GB/contributions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/es_ES/contributions.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/es_ES/contributions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/big/bg0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/big/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/big/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/big/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/big/bg4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/chromeStore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/npm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/orcid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/powerpoint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/skype.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/slack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/telegram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icons/web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/medium/bg4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/small/bg0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/small/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/small/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/small/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/small/bg4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scripts/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scripts/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scripts/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/styles/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/styles/vendor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/aboutme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/contributions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/cookies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/en_GB/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/aboutme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/contributions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/cookies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/templates/es_ES/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -51,11 +86,13 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="PhpServers">
-    <servers />
-  </component>
+  <component name="JupyterTrust" id="6c5791d4-701c-490a-a57c-f071488afc8b" />
   <component name="ProjectId" id="1Rvh0ncICke0dOS5jlS2odB9NNe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
@@ -74,18 +111,11 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
-    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v12.9.1/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/images" />
-      <recent name="$PROJECT_DIR$/app/scripts/lib" />
-      <recent name="$PROJECT_DIR$/old" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/app/images/small" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app" />
@@ -93,20 +123,15 @@
       <recent name="$PROJECT_DIR$/app/scripts/lib" />
       <recent name="$PROJECT_DIR$/app/scripts" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/images/icons" />
+      <recent name="$PROJECT_DIR$/app/images" />
+      <recent name="$PROJECT_DIR$/app/scripts/lib" />
+      <recent name="$PROJECT_DIR$/old" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Mocha.Give it some context">
+  <component name="RunManager">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -115,6 +140,19 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,28 +182,6 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="build" type="js.build_tools.gulp" temporary="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
-      <tasks>
-        <task>build</task>
-      </tasks>
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="default" type="js.build_tools.gulp" temporary="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
-      <tasks>
-        <task>default</task>
-      </tasks>
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
     <configuration name="serve" type="js.build_tools.gulp" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -177,50 +193,64 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="Give it some context" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>SUITE</test-kind>
-      <test-file>$PROJECT_DIR$/test/spec/test.js</test-file>
-      <test-names>
-        <name value="Give it some context" />
-      </test-names>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
-    <configuration name="test/spec/test.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/test/spec/test.js</test-file>
+    <configuration name="serve:dist" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve:dist" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve:test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve:test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Gulp.js.serve" />
-      <item itemvalue="Gulp.js.build" />
-      <item itemvalue="Gulp.js.default" />
-      <item itemvalue="Mocha.test/spec/test.js" />
-      <item itemvalue="Mocha.Give it some context" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.serve:test" />
+      <item itemvalue="npm.serve:dist" />
+      <item itemvalue="npm.start" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gulp.js.default" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.serve:dist" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.serve:test" />
         <item itemvalue="Gulp.js.serve" />
-        <item itemvalue="Gulp.js.build" />
-        <item itemvalue="Mocha.Give it some context" />
-        <item itemvalue="Mocha.test/spec/test.js" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -250,7 +280,9 @@
       <workItem from="1563445016380" duration="2101000" />
       <workItem from="1563889332836" duration="1371000" />
       <workItem from="1570553259339" duration="1360000" />
-      <workItem from="1573830791514" duration="1289000" />
+      <workItem from="1573830791514" duration="3606000" />
+      <workItem from="1602776330142" duration="3756000" />
+      <workItem from="1603378749372" duration="2394000" />
     </task>
     <task id="LOCAL-00001" summary="Updated some projects, added DBusBot, curriculum and fixed some bugs.">
       <created>1505732441264</created>
@@ -336,7 +368,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573832459847</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added info">
+      <created>1573832517293</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1573832517293</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fixed bug with url hash">
+      <created>1603381279167</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1603381279167</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -360,16 +406,14 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -388,6 +432,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -404,6 +449,45 @@
     <MESSAGE value="Fixed some minor bugs with navbar and pages titles." />
     <MESSAGE value="Remove in spanish version duplicated iAnnotate19. rel=noopener on target _blank links&#10;&#10;Noopener information: https://searchenginelaws.com/seo/what-is-rel-noopener-noreferrer-tag/" />
     <MESSAGE value="Added info" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added info" />
+    <MESSAGE value="Fixed bug with url hash" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed bug with url hash" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602779013858">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="378" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-2560.23.2560.1417/0.23.2560.1346@0.23.2560.1346" timestamp="1602779013858" />
+    <state x="134" y="271" key="CommitChangelistDialog2" timestamp="1603384827856">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="134" y="271" key="CommitChangelistDialog2/-2560.23.2560.1417/0.23.2560.1346@0.23.2560.1346" timestamp="1603384827856" />
+    <state x="0" y="147" key="DiffContextDialog" timestamp="1603384825173">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="0" y="147" key="DiffContextDialog/-2560.23.2560.1417/0.23.2560.1346@0.23.2560.1346" timestamp="1603384825173" />
+    <state width="1238" height="450" key="GridCell.Tab.0.bottom" timestamp="1603381170211">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="1238" height="450" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.2560.1346@0.23.2560.1346" timestamp="1603381170211" />
+    <state width="1238" height="450" key="GridCell.Tab.0.center" timestamp="1603381170206">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="1238" height="450" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.2560.1346@0.23.2560.1346" timestamp="1603381170206" />
+    <state width="1238" height="450" key="GridCell.Tab.0.left" timestamp="1603381170205">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="1238" height="450" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.2560.1346@0.23.2560.1346" timestamp="1603381170205" />
+    <state width="1238" height="450" key="GridCell.Tab.0.right" timestamp="1603381170207">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state width="1238" height="450" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.2560.1346@0.23.2560.1346" timestamp="1603381170207" />
+    <state x="141" y="335" key="SettingsEditor" timestamp="1603379817067">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="141" y="335" key="SettingsEditor/-2560.23.2560.1417/0.23.2560.1346@0.23.2560.1346" timestamp="1603379817067" />
+    <state x="338" y="451" width="604" height="490" key="find.popup" timestamp="1603384584314">
+      <screen x="0" y="23" width="2560" height="1346" />
+    </state>
+    <state x="338" y="451" width="604" height="490" key="find.popup/-2560.23.2560.1417/0.23.2560.1346@0.23.2560.1346" timestamp="1603384584314" />
   </component>
 </project>
