@@ -57,6 +57,8 @@ class Controller {
       const pageURI = this.model.getPageURI(id)
       if (pageURI !== undefined) {
         this.model.setPage(pageURI)
+        // Update url
+        window.location.hash = '#' + id
       } else {
         window.alert('Unable to website page, make sure the URL is correct.')
         window.location.reload('/')
